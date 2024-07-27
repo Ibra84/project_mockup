@@ -1,0 +1,12 @@
+mkdir project_mockup
+git init
+touch bash_script.txt
+touch readme.md
+mkdir source
+mkdir queries
+touch my.db
+touch ddl.py
+touch connector.py
+touch etl.py
+touch dashboard.py
+touch requirements.txt
